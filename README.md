@@ -22,18 +22,3 @@ Currently interested in:
 ![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=linux&logoColor=white)
 
----
-
-## Projects
-
-- SS14 / RMC-style systems & mechanics
-- RX47 combat mech
-- entity rendering & overlay systems
-- LLVM / Clang experiments
-- StyleSnap
-
----
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NikidodikYT&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikidodikYT&layout=compact&theme=transparent&hide_border=true" />
