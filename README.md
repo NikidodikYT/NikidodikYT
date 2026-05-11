@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=8A7CFF&center=true&vCenter=true&width=760&lines=gameplay+programming;ECS+%2F+networking+%2F+engine+stuff;C%23+%2F+.NET+%2F+Python;trying+to+make+multiplayer+code+not+explode" />
 
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=NikidodikYT&label=views&color=1f1f1f&style=for-the-badge" />
 
 <br><br>
